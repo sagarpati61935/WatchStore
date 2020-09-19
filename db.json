@@ -1,0 +1,235 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fossil Watch",
+      "description": "Fossil Watch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIi0mPtW80iNCugRN8rzdJvhYwRXoqJpnx5mg1KpuuDvdlEvuV0lnCCs4vTyEfEXPQi-iEZHEF&usqp=CAc",
+      "price": 3499
+    },
+    {
+      "id": 2,
+      "name": "Diesel DZ7325",
+      "description": "Diesel DZ7325",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtYQlwK6_pU3OByIEEDpW5mRq6cfA9Ospo3dXgwjEwxhPu6fBJuk71fTRF1xOmMTmb9_S3G7m_&usqp=CAc",
+      "price": 28299
+    },
+    {
+      "id": 3,
+      "name": "Tissot Black White",
+      "description": "Tissot Black White",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRF_v7Qm6nPUMdiyuS8QGaoY_fEr9d2eyyL6z34zxO_x3HtldfjeecoKmpRxw&usqp=CAc",
+      "price": 1795
+    },
+    {
+      "id": 4,
+      "name": "Fossil FS4662 MACHINE Watch",
+      "description": "Fossil FS4662 MACHINE Watch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHjKiRAEUU29w20ec4Dlqr-440iPpJ7dvyzO7c16aXP5lAAX-aFxOu0UTtL5S6FvNK5InIoDBd&usqp=CAc",
+      "price": 7599
+    },
+    {
+      "id": 5,
+      "name": "Scuderia Ferrari 0830259 Red Rev T Analog Watch ",
+      "description": "Scuderia Ferrari 0830259 Red Rev T Analog Watch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMOJFenlQmprzI3FsuJgBZspm_aNqxfLNz-JrY0TqHltE31RWFgEWM2erWyu8&usqp=CAc",
+      "price": 7625
+    },
+    {
+      "id": 6,
+      "name": "Casio EX303 Edifice ( EFR-526L-7BVUDF ) Analog Watch",
+      "description": "Casio EX303 Edifice ( EFR-526L-7BVUDF ) Analog Watch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHgiaaQCgrF5J6yE_OTsqryQ5terpNs9x4xykw81eTPi4jYmto1j3RYjcq9sld668BK2W8mA&usqp=CAc",
+      "price": 6495
+    },
+    {
+      "id": 7,
+      "name": "Tommy Hilfiger TH1791461 Analog Watch",
+      "description": "Tommy Hilfiger TH1791461 Analog Watch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlwS6houyB0xSZt44S_-jHMK3tK2BWw3BNp-HaZtNWyx-iwD3Q9kh5-2gEMCStDfftRzAl77Ga&usqp=CAc",
+      "price": 9995
+    },
+    {
+      "id": 8,
+      "name": "Casio G595 G-Shock ( GA-1100-1A3DR ) Analog-Digital Watch",
+      "description": "Casio G595 G-Shock ( GA-1100-1A3DR ) Analog-Digital Watch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVFykamkqcsivR2SqsBLcAFSWGzorOm4SUrw&usqp=CAU",
+      "price": 12995
+    },
+    {
+      "id": 9,
+      "name": "Titan 2590KM02 Neo Analog Watch",
+      "description": "Titan 2590KM02 Neo Analog Watch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjzcuKWkjhbOBsz2KbA_0AuQQuD0Ydoe9PhB6XBX2FiNVjdADn6G5kjuWYSye8RZTe0gA7S5gq&usqp=CAc",
+      "price": 5295
+    },
+    {
+      "id": 10,
+      "name": "Fastrack 3166KM01 All Nighters Analog Watch ",
+      "description": "Fastrack 3166KM01 All Nighters Analog Watch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSLqty-71fPtldQf2gygb63zly4PAzrMiCVLzoPqfbCEg1vu52M7ZcByQNxrH-K-HtS5Lhur8e5&usqp=CAc",
+      "price": 2432
+    },
+    {
+      "id": 11,
+      "name": "Titan 2590KM02 Neo Analog Watch",
+      "description": "Titan 2590KM02 Neo Analog Watch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuK3VpxbV9FLWYOpAB9k2-vlCZfamPB9kqfpvEDeqk-MKBSmBJa_j-lQRxTtbWlJm3c3ynZ7M5&usqp=CAc",
+      "price": 5295
+    },
+    {
+      "id": 12,
+      "name": "Fastrack Reflex Beat Digital Black Dial Unisex-Adult Watch-SWD90066PP02 ",
+      "description": "Fastrack Reflex Beat Digital Black Dial Unisex-Adult Watch-SWD90066PP02",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjfhx30_9ItlAEvE1fcc4hjbuzeP4csLYeC7PrH1887x0ZF8ISGA9bK3ic2bCg5yqWERfGB_eI&usqp=CAc",
+      "price": 1975
+    },
+    {
+      "id": 13,
+      "name": "US Polo Association Autumn-Winter 20 Analog Silver Dial Men's Watch-USWAT0040",
+      "description": "US Polo Association Autumn-Winter 20 Analog Silver Dial Men's Watch-USWAT0040",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCrjPQO-t82Ip__OZ06s1eVKg6a4F34VnxcFzR-varwUg39ClmhAwPEO7RUb95-RFREbxUvhwa&usqp=CAc",
+      "price": 1929
+    },
+    {
+      "id": 14,
+      "name": "Timex Analog Black Dial Men's Watch-TW00ZR264E",
+      "description": "Timex Analog Black Dial Men's Watch-TW00ZR264E",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRv0kTrChnup1q5F3x0Q4jDp_QGQjwhj25mJV0N3bYi7MWPwMhVzmu8PqDYoZoO33KWMxiwFnc&usqp=CAc",
+      "price": 1095
+    },
+    {
+      "id": 15,
+      "name": "Scuderia Ferrari Red Rev Series 1",
+      "description": "Scuderia Ferrari Red Rev Series 1",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLbkZ1xCTvdFrNfXj3R26zBC25PjDtulaD_VWoY-llXB8E5FyCpATf9WzSMLUgd0wrkqwGk1Bu&usqp=CAc",
+      "price": 3999
+    },
+    {
+      "id": 16,
+      "name": "Fastrack Casual Analog White Dial Men's Watch NM3121SM01 / NL3121SM01",
+      "description": "Fastrack Casual Analog White Dial Men's Watch NM3121SM01 / NL3121SM01",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVKawPHJcEPO70j-KPFxWpSXJF8I5KFf_JF088hwo4nrSye9Cij7r-LjinztjDigyECwe_iycF&usqp=CAc",
+      "price": 1605
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Fossil Watch",
+        "description": "Fossil Watch",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIi0mPtW80iNCugRN8rzdJvhYwRXoqJpnx5mg1KpuuDvdlEvuV0lnCCs4vTyEfEXPQi-iEZHEF&usqp=CAc",
+        "price": 3499
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 1
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 2
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 3
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 4
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 5
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 6
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 7
+    },
+    {
+      "name": "sagar",
+      "email": "",
+      "username": "",
+      "password": "",
+      "confirmPassword": "",
+      "id": 8
+    },
+    {
+      "name": "sagar",
+      "email": "",
+      "username": "",
+      "password": "",
+      "confirmPassword": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "username": "",
+      "password": "",
+      "confirmPassword": "",
+      "id": 10
+    },
+    {
+      "name": "sagar",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "sagar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 11
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
